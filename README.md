@@ -5,7 +5,7 @@
 # 🇧🇷 Versão em Português
 
 # PDF Reader Pro
-Leitor/editor de PDF estilo Adobe Acrobat, feito em Python com PyQt6 + PyMuPDF.
+Leitor/editor de PDF feito em Python com PyQt6 + PyMuPDF.
 
 ## Instalação
 ```bash
@@ -59,7 +59,7 @@ pdfreader/
 # 🇺🇸 English Version
 
 # PDF Reader Pro
-Adobe Acrobat-style PDF reader/editor, built in Python with PyQt6 + PyMuPDF.
+PDF reader/editor, built in Python with PyQt6 + PyMuPDF.
 
 ## Installation
 ```bash
