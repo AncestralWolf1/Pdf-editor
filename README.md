@@ -56,5 +56,3 @@ pdfreader/
 - Anotações são salvas diretamente no PDF via PyMuPDF (compatíveis com Adobe Acrobat).
 - Renderização usa cache simples: recalcula ao mudar zoom/rotação (poderá ser otimizado com cache de página visível em versões futuras, para documentos muito grandes).
 - `Salvar` usa gravação incremental quando salva no mesmo arquivo (mais rápido); `Salvar como` grava um novo arquivo completo.
-# Pdf-editor
-Open Source pdf editor.
